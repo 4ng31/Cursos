@@ -1,8 +1,0 @@
-* Programar un clasificador de vecinos mas cercano
-* Programar un clasificador basado en Parzen
-* Programar un clasificador de Bayes:
-	- Suponiendo p(x|w_i)~N(\mu_i,\sigma_i) (varianzas distintas)
-	- Suponiendo p(x|w_i)~N(\mu_i,\sigma) (varianza constante)
-		Linkelihood ratio 
-			p(w_1|x)/p(w_0|x)
-* Programar un CROSS-VALIDATION test
